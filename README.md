@@ -14,15 +14,10 @@ DS4002_CS3/
 │   │   ├── SAMPLE_DataAppendix.pdf
 │   │   ├── SAMPLE_reviews_with_sentiment.csv
 │   │   └── SAMPLE_reviews.csv
-│   ├── References/
-│   │   ├── Sentiment Analysis/
-│   │   ├── Statistics/
-│   │   └── STEMvsHumanities/
-│   └── Scripts/
-│       ├── SAMPLE_analysis.ipynb
-│       ├── SAMPLE_eda.py
-│       ├── SAMPLE_sentiment_analysis.py
-│       └── SAMPLE_web_scraper.py
+│   └── References/
+│       ├── Sentiment Analysis/
+│       ├── Statistics/
+│       └── STEMvsHumanities/
 ├── CS3_Hook.pdf
 ├── CS3_Rubric.pdf
 ├── LICENSE
@@ -44,13 +39,6 @@ The folder containing all references and further information can be found [here]
 * **Sentiment Analysis**: information about sentiment analysis
 * **Statistics**: statistical tests and stratification to explain behavior taken in analysis notebook
 * **STEMvsHumanities**: additional reading material about the debate between stem and humanities majors respectively
-
-#### Scripts
-The folder containing all the source code can be found [here](/Materials/Scripts/). This includes the following: 
-* `SAMPLE_analysis.ipynb`: A jupyter notebook file that performs additional preprocessing and then statistical analysis 
-* `SAMPLE_eda.py`: A simple python script that creates plots to explore trends in the data 
-* `SAMPLE_sentiment_analysis.py`: A simple python script that runs VADER sentiment analysis on scraped reviews
-* `SAMPLE_web_scraper.py`: A simple python script that selects specific courses to scrape reviews from
 
 ### License
 A sample license was additionally provided in this repository. Based on your needs, feel free to change it.
